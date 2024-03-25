@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#ACC18A</color>
+
+    <color name="endColor">#E46709</color>
+    <color name="startColor">#EFA101</color>
+    <color name="starColor">#AB482F</color>
+    <color name="textColor">#FF7F1F</color>
+    <color name="iconColor">@color/black</color>
+    <color name="app_background_color">#F2FBE0</color>
+</resources>

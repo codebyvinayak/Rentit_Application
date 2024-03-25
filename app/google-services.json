@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955390790113",
+    "project_id": "adminrentit",
+    "storage_bucket": "adminrentit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955390790113:android:164e8d3d0fa62d6c9daaa0",
+        "android_client_info": {
+          "package_name": "com.example.adminrentit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsY2qs1yOD9a0jBeoCNPZjbC1N3qHnMiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
